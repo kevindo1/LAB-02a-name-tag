@@ -3,6 +3,11 @@
 * {
     
 }
+
+.inputs {
+    width: 300px;
+    margin: 20px auto;
+}
 body {
     font-family: Roboto;
 }
@@ -10,6 +15,7 @@ body {
     background-color: lightgray;
     width: 400px;
     padding: 10px;
+    margin: auto;
 }
 h1 {
     font-size: 70px;
