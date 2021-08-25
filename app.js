@@ -4,7 +4,7 @@ const nameElement = document.getElementById('name');
 // get the button
 const updateButton = document.getElementById('update-button');
 // get the input
-const nameInput = document.getElementById('name-input')
+const nameInput = document.getElementById('name-input');
 console.log(updateButton);
 
 // user clicks on the button
